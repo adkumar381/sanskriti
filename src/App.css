@@ -102,7 +102,7 @@ display: flex;
 .rightside_blue_icon{
 padding: 1rem;
 padding-right: 0.2rem;
-font-size: 3.5rem;
+font-size: 3rem;
 color: white;
 }
 .number{
@@ -151,7 +151,7 @@ display: flex;
 padding: 1rem;
 padding-right: 0.2rem;
 padding-left: 0;
-font-size: 3.5rem;
+font-size: 2.5rem;
 color: white;
 }
 .number{
@@ -200,7 +200,7 @@ display: flex;
 padding: 1rem;
 padding-left: 0;
 padding-right: 0.2rem;
-font-size: 2.5rem;
+font-size: 2rem;
 color: white;
 }
 .number{
@@ -249,7 +249,7 @@ display: flex;
 padding: 1rem;
 padding-left: 0;
 padding-right: 0.2rem;
-font-size: 2.5rem;
+font-size: 2rem;
 color: white;
 }
 .number{
@@ -298,7 +298,7 @@ display: flex;
 padding: 0.5rem;
 padding-left: 0;
 padding-right: 0.5rem;
-font-size: 2.5rem;
+font-size: 2rem;
 color: white;
 }
 .number{
@@ -347,7 +347,7 @@ display: flex;
 padding: 0rem;
 padding-left: 0;
 padding-right: 0rem;
-font-size: 2.5rem;
+font-size: 1.8rem;
 color: white;
 }
 .number{
