@@ -61,7 +61,7 @@ function Testimonial() {
                 </div>
             </div>
             </Carousel>
-            <button className='testimonial_Button'>Yes I want to pre book my seat for BAMS</button>
+            <a href='SectionOne.js' className='testimonial_Button'>Yes I want to pre book my seat for BAMS</a>
         </div>
     </div>
   )

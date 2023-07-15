@@ -29,27 +29,25 @@ function SectionThree() {
             </p>
 
             <div className="section3_yellowbox">
-              State of the Art Infrastructure
+              World Class Infrastructure
             </div>
             <div className="section3_yellowbox">Cosmopolitan Culture</div>
             <div className="section3_yellowbox">Top Academicians</div>
-            <div className="section3_yellowbox">Premium Placements</div>
+            <div className="section3_yellowbox">Panchkarma Center</div>
             <div className="section3_yellowbox">
                Innovative Research Opportunities
             </div>
             <div className="section3_yellowbox">
-              Incubation CenterIncubation Center
+            Herbal Garden
             </div>
           </div>
         </div>
 
-        <div className="seat_booking_section3">
+        <a href="./SectionOne.js" className="seat_booking_section3">
           Yes, I want to Pre-Book My Seat !
-        </div>
+        </a>
 
-        <p className="last_text_section3">
-          Reminder : "17 Seats" Available - Without Donation
-        </p>
+        
       </div>
     </>
   );

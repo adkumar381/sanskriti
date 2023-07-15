@@ -6,6 +6,7 @@
     flex-direction: column;
     width: 100%;
     align-items: center;
+    padding-bottom: 20px;
 }
 
 .section_two_heading_sansk {
@@ -78,7 +79,8 @@ display: flex;
 }
 
 .box_icon_sansk {
-    height: 80%;
+    height: 100%;
+    width: 100%;
 }
 
 .lower_box_sansk {
@@ -95,7 +97,7 @@ display: flex;
     color: #FFF;
         text-align: center;
         font-family: Rubik;
-        font-size: 3vh;
+        font-size: 1.3rem;
         font-style: normal;
         font-weight: 700;
         
@@ -117,7 +119,7 @@ display: flex;
         font-size: 3vh;
         font-style: normal;
         font-weight: 600;
-        
+        text-decoration: none;
         text-align: center;
         justify-content: center;
         display: flex;
@@ -138,6 +140,34 @@ display: flex;
     color: orangered;
 }
 
+@media screen and (max-width: 1030px) {
+    .box_sansk {
+        width: 15%;
+        margin-right: 1vw;
+    }
+
+    .row_one_sansk {
+        margin-left: 5%;
+        width: 92%;
+    }
+
+    .section_two_heading_sansk {
+        font-size: 4vw;
+    }
+
+    .section_two_subheading_sansk {
+        font-size: 2.6vw;
+    }
+    .description_box_sansk {
+        color: #FFF;
+            text-align: center;
+            font-family: Rubik;
+            font-size: 1.2rem;
+            font-style: normal;
+            font-weight: 700;
+            
+    }
+}
 @media screen and (max-width: 970px) {
     .box_sansk {
         width: 15%;
@@ -156,6 +186,15 @@ display: flex;
     .section_two_subheading_sansk {
         font-size: 2.6vw;
     }
+    .description_box_sansk {
+        color: #FFF;
+            text-align: center;
+            font-family: Rubik;
+            font-size: 1.5rem;
+            font-style: normal;
+            font-weight: 700;
+            
+    }
 }
 @media screen and (max-width: 900px) {
     .box_sansk {
@@ -166,6 +205,15 @@ display: flex;
     .row_one_sansk {
         margin-left: 10%;
         width: 90%;
+    }
+    .description_box_sansk {
+        color: #FFF;
+            text-align: center;
+            font-family: Rubik;
+            font-size: 1.5rem;
+            font-style: normal;
+            font-weight: 700;
+            
     }
 }
 @media screen and (max-width: 750px) {
@@ -183,6 +231,15 @@ display: flex;
         font-size: 4vh;
         width: 71%;
     }
+    .description_box_sansk {
+        color: #FFF;
+            text-align: center;
+            font-family: Rubik;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 700;
+            
+    }
 }
 @media screen and (max-width: 550px) {
     .box_sansk {
@@ -196,7 +253,7 @@ display: flex;
     }
 
         .description_box_sansk {
-            font-size: 2.5vh;
+            font-size: 1rem;
         }
 
                 .section_two_heading_sansk {

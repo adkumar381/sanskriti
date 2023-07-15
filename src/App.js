@@ -10,45 +10,55 @@ import SectionThree from "./components/SectionThree";
 import SectionFour from "./components/SectionFour";
 import SectionFive from "./components/SectionFive";
 import SectionSix from "./components/SectionSix";
+import OnePage from './components/OnePage';
+import Department from './components/Department'
+import {FaWhatsappSquare} from 'react-icons/fa'
+import {BiSolidPhoneCall} from 'react-icons/bi'
 function App() {
   return (
     <>
     <div className="yellowspace_sansk">
         <p>
           Important : Only <span className="fifteen_sansk">15</span> Seats Left!
-        </p>
+        </p> 
       </div>
 
       <div className="bluespace_sansk">
         <div className="leftside_blue">
           <img src={SanskritiLogo} className="logo_blue_sansk" />
+          
         </div>
-        <div className="rightside_blue">Contact us on: 12345678</div>
-      </div>
+        <div className="address_sansk">Sanskriti University Mathura</div>
+        <div className='rightside_blue' ><BiSolidPhoneCall className="rightside_blue_icon"/><a href="tel:+917307536494" className='number'>+917307536494 </a></div>
+      </div> 
     <div className="App">
-      {/* <Testimonial/> */}
+      
       
       <SectionOne></SectionOne>
-      <SectionTwo></SectionTwo>
+       <SectionTwo></SectionTwo>
       <SectionFive></SectionFive>
+      <Department/>
       <SectionSix></SectionSix>
       
       <SectionThree></SectionThree>
       <Testimonial/>
       
       <Placement/>
+      <OnePage/>
       <Location/>
       <SectionFour></SectionFour>
-      
-
-      {/* <div className="grey_space"></div> */}
-      
-      {/* <div className="grey_space"></div> */}
+      <a
+        className="whatsapp_sansk"
+        href="https://api.whatsapp.com/send?phone=7307536494&text=Hello."
+        target="_blank"
+      >
+        <FaWhatsappSquare className='whatsapp_sansk_icon'/>
+      </a>
       
       
     </div>
     </>
   );
-}
+} 
 
 export default App;

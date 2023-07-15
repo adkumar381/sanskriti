@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
+    padding-bottom: 20px;
 }
 
 .heading_section5 {
@@ -50,7 +51,8 @@
             font-size: 3.2vh;
             font-style: normal;
             font-weight: 600;
-            
+            cursor: pointer;
+            text-decoration: none;
 }
 
 .last_text_section5 {
@@ -62,6 +64,7 @@
         font-weight: 400;
         line-height: normal;
         margin: 2vh 0 2vh 0;
+        
 }
 
 .without_donation {

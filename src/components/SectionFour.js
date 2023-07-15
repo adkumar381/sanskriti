@@ -13,7 +13,7 @@ function SectionFour() {
         </p>
 
         <div className="box1_section4">Here's your Career Defining Moment</div>
-        <div className="box2_section4">Pre-Book Your Seat Now!</div>
+        <a href="./SectionOne.js" className="box2_section4">Pre-Book Your Seat Now!</a>
         <p className="section_four_text3">Admission Pre-Booking Ending in</p>
         <p className="section_four_text4">
           02: 10: <span className="red_timer">05</span>

@@ -16,9 +16,9 @@ function SectionSix() {
           src="https://www.youtube.com/embed/cxqjIb72R2I?autoplay=1&mute=1"
         ></iframe>
 
-        <div className="fifteenseats_section5">
+        <a href="./SectionOne.js" className="fifteenseats_section5">
           Yes, I want to Pre-Book My Seat for BAMS!
-        </div>
+        </a>
 
         <div className="last_text_section5">
           ONLY 17 SEATS LEFT! -{" "}
