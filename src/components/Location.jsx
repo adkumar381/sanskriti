@@ -1,6 +1,6 @@
 import React from 'react'
 import './location.css'
-import Counsellor from '../assets/counsellor.jpeg'
+import Counsellor from '../assets/counsellor (2).jpeg'
 function Location() {
   return (
     <div>
