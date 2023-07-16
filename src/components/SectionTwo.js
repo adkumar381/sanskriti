@@ -8,7 +8,7 @@ import Icon5 from "../assets/icon5.png";
 import Icon6 from "../assets/icon6.png";
 import Icon7 from "../assets/icon7.png";
 import Icon8 from "../assets/icon8.png";
-import Icon9 from "../assets/icon9.png";
+import Icon9 from "../assets/icon9.jpg";
 import Icon10 from "../assets/icon10.png";
 
 function SectionTwo() {
@@ -97,7 +97,7 @@ function SectionTwo() {
               <img src={Icon9} className="box_icon_sansk" />
             </div>
             <div className="lower_box_sansk">
-              <p className="description_box_sansk">4* rating by careerkick neet</p>
+              <p className="description_box_sansk">4*/5 rating by careerkick neet</p>
             </div>
           </div>
           <div className="box10_sansk box_sansk">
