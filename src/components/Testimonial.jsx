@@ -35,9 +35,9 @@ function Testimonial() {
                     <img src={testi_image1} alt='' className='testiImage'/>
                 </div>
                 <div className='testimonial_text'>
-                    <p>My name is Namrata I'm pursuing BPT from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
-                    <h3>Namrta Kaur</h3>
-                    <p className='testimonial_p'>BPT</p>
+                    <p>My name is Uday Pratap I'm pursuing BAMS from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
+                    <h3>Uday Pratap</h3>
+                    <p className='testimonial_p'>BAMS</p>
                 </div>
             </div>
             <div className='testimonial'>
