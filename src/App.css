@@ -696,6 +696,7 @@ color: white;
 .whatsapp_sansk_icon{
   color:#09bc00;
   background:white;
+  border-radius:7px;
   font-size:5rem
 }
 @media screen and (max-width:800px){
