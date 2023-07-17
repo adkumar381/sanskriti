@@ -35,9 +35,9 @@ function Testimonial() {
                     <img src={testi_image1} alt='' className='testiImage'/>
                 </div>
                 <div className='testimonial_text'>
-                    <p>My name is Namrata I'm pursuing BPT from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
-                    <h3>Namrta Kaur</h3>
-                    <p className='testimonial_p'>BPT</p>
+                    <p>My name is Uday I'm pursuing BPT from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
+                    <h3>UDAY PRATAP</h3>
+                    <p className='testimonial_p'>BAMS</p>
                 </div>
             </div>
             <div className='testimonial'>
@@ -47,7 +47,7 @@ function Testimonial() {
                 <div className='testimonial_text'>
                     <p>I love studying at Sanskriti University. The academic standards are high and the professors are really good at teaching. The University is very supportive towards students and I got all the help that I needed as a student.</p>
                     <h3>ZIM MAR AYA</h3>
-                    <p className='testimonial_p'>B.Sc Biotechnology</p>
+                    <p className='testimonial_p'>BAMS</p>
                 </div>
             </div>
             <div className='testimonial'>
@@ -57,7 +57,7 @@ function Testimonial() {
                 <div className='testimonial_text'>
                     <p>Sanskriti University is the most unique and popular University in Uttar Pradesh, in this University the atmosphere is very good. Talking about faculties, they are very cooperative and good in nature. The University is growing very fast day by day.</p>
                     <h3>Archit</h3>
-                    <p className='testimonial_p'>MCA</p>
+                    <p className='testimonial_p'>BAMS</p>
                 </div>
             </div>
             </Carousel>
