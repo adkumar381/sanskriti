@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import testi_image1 from '../assets/testi_image1.png'
+import testi_image1 from '../assets/testi_image1.jpg'
 import testi_image2 from '../assets/testi_image2.png'
 import testi_image3 from '../assets/testi_image3.png'
 import Carousel from 'nuka-carousel'
