@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import testi_image1 from '../assets/testi_image1.jpg'
-import testi_image2 from '../assets/testi_image2.png'
-import testi_image3 from '../assets/testi_image3.png'
+import testi_image2 from '../assets/testi_image2.jpg'
+import testi_image3 from '../assets/testi_image3.jpg'
 import Carousel from 'nuka-carousel'
 import './testimonial.css'
 // const CardSlider = () => {
@@ -35,9 +35,9 @@ function Testimonial() {
                     <img src={testi_image1} alt='' className='testiImage'/>
                 </div>
                 <div className='testimonial_text'>
-                    <p>My name is Uday Pratap I'm pursuing BAMS from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
-                    <h3>Uday Pratap</h3>
-                    <p className='testimonial_p'>BAMS</p>
+                    <p>My name is Namrata I'm pursuing BPT from Sanskriti University. My experience in this college has been very good. The environment here is very good and the faculty here is very helpful. The hostel facilities of this college are very good I haven't face any problem.</p>
+                    <h3>Namrta Kaur</h3>
+                    <p className='testimonial_p'>BPT</p>
                 </div>
             </div>
             <div className='testimonial'>
