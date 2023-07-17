@@ -686,6 +686,8 @@ color: white;
 } */
 .whatsapp_sansk {
   position: fixed;
+  background-color:#fff;
+  border-radius:7px;
   bottom: 3%;
   right: 3%;
   /* top: 95%;
