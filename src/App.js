@@ -19,7 +19,7 @@ function App() {
     <>
     <div className="yellowspace_sansk">
         <p>
-          Important : Only <span className="fifteen_sansk">15</span> Seats Left!
+          Important : Only <span className="fifteen_sansk">Few</span> Seats Left!
         </p> 
       </div>
 
