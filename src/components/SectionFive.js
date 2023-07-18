@@ -16,10 +16,10 @@ function SectionFive() {
         </div>
       </div>
 
-      <div className="orange_space_section5">
-        <div className="column1_hurryup">Hurry up! Only 17 Seats Left! </div>
-        <div className="column2_hurryup">Hurry up! Only 17 Seats Left! </div>
-        <div className="column3_hurryup">Hurry up! Only 17 Seats Left! </div>
+     <div className="orange_space_section5">
+        <div className="column1_hurryup">Hurry up! Pre-book your seat</div>
+        <div className="column2_hurryup">Hurry up! Pre-book your seat </div>
+        <div className="column3_hurryup">Hurry up! Pre-book your seat</div>
       </div>
     </>
   );
