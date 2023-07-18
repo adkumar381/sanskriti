@@ -20,9 +20,9 @@ function SectionSix() {
           Yes, I want to Pre-Book My Seat for BAMS!
         </a>
 
-        <div className="last_text_section5">
-          ONLY 17 SEATS LEFT! -{" "}
-          <span className="without_donation">Without Donation</span>
+<div className="last_text_section5">
+          Hurry up -{" "}
+          <span className="without_donation">Pre-book your seat</span>
         </div>
       </div>
     </>
